@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to hojung Repository 👋🌱
 
 <!--
 **yhj814/yhj814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
