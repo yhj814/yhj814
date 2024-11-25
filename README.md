@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=Hojung_yong&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sein's%20Github&fontSize=60"  style ="width : 1000px; height:400px"/>
+</div>
 
 <h3 align="center">Hi! I'm Hojung </h3>
 <p align="center">
