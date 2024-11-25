@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hojung's%20Github&fontSize=60"  style ="width : 1000px; height:400px"/>
 </div>
 
-<h3 align="center">Hi! I'm Hojung </h3>
-<p align="center">
-  <a href="hojungyong1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hojungyong1@gmail.com)](mailto:hojungyong1@gmail.com)"/></a>&nbsp
-<a href="https://www.notion.so/1462ec97785e80cbacfde018139f68d9"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
-<h4 align="center"> </h4>
-<br>
 
 ## Welcome to hojung Repository 👋
 
@@ -15,7 +9,7 @@
 👩 용호중 <br>
 👶 2000.08.14 <br>
 📞 010-9083-7645 <br>
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:hojungyong1@gmail.com) <span><a href="[https://spotty-alligator-d0a.notion.site/b5c2a4cd0d004e29b5dde7e98ce2ae09?pvs=4](https://www.notion.so/1462ec97785e80cbacfde018139f68d9)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 <details>
 <summary>
