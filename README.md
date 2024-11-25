@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=Hojung_yong&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
+<h3 align="center">Hi! I'm Hojung </h3>
+<p align="center">
+  <a href="hojungyong1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hojungyong1@gmail.com)](mailto:hojungyong1@gmail.com)"/></a>&nbsp
+<a href="https://www.notion.so/1462ec97785e80cbacfde018139f68d9"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
+<h4 align="center"> </h4>
+<br>
+
 ## Welcome to hojung Repository 👋
 
 ## Profile
