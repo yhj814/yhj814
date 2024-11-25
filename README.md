@@ -31,19 +31,8 @@
 
 
 
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" />  The language I'm learning now is
-</summary>
-   <br>
-  
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![MYSQL](https://img.shields.io/badge/MySQL-0769AD?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+<div align=left>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhj814&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=yhj814&show_icons=true">
+</div>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/yhj814/github-readme-stats)
-
-</details>
