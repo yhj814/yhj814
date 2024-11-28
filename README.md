@@ -9,7 +9,7 @@
 
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:hojungyong1@gmail.com) <span><a href="https://www.notion.so/1462ec97785e80cbacfde018139f68d9"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:hojungyong1@gmail.com) <span><a href="https://judicious-position-651.notion.site/1462ec97785e80cbacfde018139f68d9"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 <br>
